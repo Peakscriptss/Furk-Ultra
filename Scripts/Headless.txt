@@ -1,0 +1,8 @@
+local weld = Instance.new("Weld")
+weld.Name = "RightGrip"
+weld.Part0 = game.Players.LocalPlayer.Character.HumanoidRootPart
+weld.Part1 = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Accessory").Handle
+weld.C0 = CFrame.new(0, math.huge, 0) * CFrame.Angles(math.rad(0), math.rad(0), math.rad(0))
+weld.C1 = game.Players.LocalPlayer.Character:FindFirstChildOfClass("Accessory").Handle:FindFirstChildOfClass("Attachment").CFrame
+weld.Parent = nil
+weld.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
